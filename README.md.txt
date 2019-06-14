@@ -1,1 +1,1 @@
-This is Frond End disign, resposive theme ready for production.  
+This is Frond End design, resposive theme ready for production.  
